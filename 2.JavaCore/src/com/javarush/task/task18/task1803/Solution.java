@@ -22,6 +22,7 @@ public class Solution {
             tmp = fis.read();
             bytes.add(tmp);
         }
+        fis.close();
         Collections.sort(bytes);
 
         for (int j = 0; j < bytes.size(); j++) {
@@ -33,7 +34,6 @@ public class Solution {
                 repeatMap.clear();
                 maxRepeat = currentRepeat;
                 repeatMap.put(tmpJ, maxRepeat);
-
             } else if (maxRepeat == currentRepeat) {
                 repeatMap.put(tmpJ, maxRepeat);
             }
@@ -45,9 +45,6 @@ public class Solution {
             j = 0;
             currentRepeat = 0;
         }
-
-        fis.close();
-
         Iterator<Map.Entry<Integer, Integer>> entries = repeatMap.entrySet().iterator();
         while (entries.hasNext()) {
             Map.Entry<Integer, Integer> entry = entries.next();
