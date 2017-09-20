@@ -16,8 +16,7 @@ public class Solution {
         @Override
         public void setModel(List rows) {
             original.setModel(rows);
-            int size = rows.size();
-            System.out.println(size);
+            System.out.println(rows.size());
         }
 
         @Override
