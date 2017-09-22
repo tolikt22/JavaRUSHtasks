@@ -16,6 +16,7 @@ public class Solution {
         while (fis.available() > 0) {
             int key = fis.read();
             map.put(key, map.containsKey(key) ? map.get(key) + 1 : 1);
+            //map.get(key) возвращает value (в т.ч. может быть null)
         }
         fis.close();
 
