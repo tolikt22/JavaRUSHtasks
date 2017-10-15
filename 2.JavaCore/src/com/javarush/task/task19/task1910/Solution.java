@@ -24,7 +24,8 @@ public class Solution {
         }
         bufFileReader.close();
         string = sb.toString();
-        result = string.replaceAll("\\p{Punct}", "").replaceAll("\n", "");
+        result = string.replaceAll("\\p{Punct}", "")
+                       .replaceAll("\n", "");
         bufFileWriter.write(result);
         bufFileWriter.close();
     }
