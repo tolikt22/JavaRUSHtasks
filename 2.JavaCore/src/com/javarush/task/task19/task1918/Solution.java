@@ -1,6 +1,6 @@
 package com.javarush.task.task19.task1918;
 /*
-Знакомство с тегами // ефпі
+Знакомство с тегами // tags
 */
 import java.io.*;
 import java.util.Map;
