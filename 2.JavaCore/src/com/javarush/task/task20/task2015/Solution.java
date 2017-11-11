@@ -1,9 +1,6 @@
 package com.javarush.task.task20.task2015;
 
-import java.io.IOException;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
-import java.io.Serializable;
+import java.io.*;
 
 /* 
 Переопределение сериализации
@@ -20,6 +17,16 @@ public class Solution implements Serializable, Runnable {
 
     public void run() {
         // do something here, does not matter
+        System.out.println();
+        for(int i = speed; i > 0; i--){
+            System.out.print(i + " ");
+            try {
+                Thread.sleep(100);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
+
     }
 
     /**
@@ -39,7 +46,12 @@ public class Solution implements Serializable, Runnable {
         thread.start();
     }
 
-    public static void main(String[] args) {
-
+    public static void main(String[] args) throws IOException, InterruptedException, ClassNotFoundException {
+        Solution sol = new Solution(20);
+        ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("D:/task2015.dat"));
+        oos.writeObject(sol);
+        Thread.sleep(100);
+        ObjectInputStream ois = new ObjectInputStream(new FileInputStream("D:/task2015.dat"));
+        ois.readObject();
     }
 }
