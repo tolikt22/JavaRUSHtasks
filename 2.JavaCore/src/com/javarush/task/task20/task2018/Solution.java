@@ -37,10 +37,9 @@ public class Solution implements Serializable {
         }
     }
 
-
     public static void main(String[] args) throws IOException, ClassNotFoundException {
-        ByteArrayOutputStream arrayOutputStream = new ByteArrayOutputStream();
-        ObjectOutputStream oos = new ObjectOutputStream(arrayOutputStream);
+        ByteArrayOutputStream baos = new ByteArrayOutputStream();
+        ObjectOutputStream oos = new ObjectOutputStream(baos);
 
         Solution solution = new Solution();
         B b = solution.new B("B2");
@@ -48,7 +47,7 @@ public class Solution implements Serializable {
 
         oos.writeObject(b);
 
-        ByteArrayInputStream arrayInputStream = new ByteArrayInputStream(arrayOutputStream.toByteArray());
+        ByteArrayInputStream arrayInputStream = new ByteArrayInputStream(baos.toByteArray());
         ObjectInputStream ois = new ObjectInputStream(arrayInputStream);
 
         B b1 = (B) ois.readObject();
