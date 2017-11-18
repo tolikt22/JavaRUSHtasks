@@ -19,23 +19,17 @@ public class Solution {
 
     public static int getRectangleCount(byte[][] a) {
         int rectangle = 0;
-        for (int i = 0; i < a.length - 1; i++) {                // поиск не ставая на крайние правые и нижние
+        for (int i = 0; i < a.length - 1; i++) {                // поиск не ставая на крайние правые и нижние ячейки
             for (int j = 0; j < a[0].length - 1; j++) {
-                if (a[i][j] == 1 && a[i + 1][j] != 1 && a[i][j + 1] != 1) {
-                    rectangle++;
-                }
+                if (a[i][j] == 1 && a[i + 1][j] != 1 && a[i][j + 1] != 1) rectangle++;
             }
         }
-        for (int i = 0; i < a[a.length - 1].length - 1; i++) {   //поиск по нижнему краю
-            if (a[a.length - 1][i + 1] != 1 && a[a.length - 1][i] == 1) {
-                rectangle++;
-            }
+        for (int i = 0; i < a[a.length - 1].length - 1; i++) {   // поиск по нижнему краю (нижний ряд)
+            if (a[a.length - 1][i + 1] != 1 && a[a.length - 1][i] == 1) rectangle++;
         }
-        for (int i = 0; i < a.length - 1; i++) {                 //поиск по правому краю
-            if (a[i + 1][a[a.length - 1].length - 1] != 1 && a[i][a[a.length - 1].length - 1] == 1) {
-                rectangle++;
-            }
-        }                                                        //проверка правой нижней ячейки
+        for (int i = 0; i < a.length - 1; i++) {                 // поиск по правому краю
+            if (a[i + 1][a[a.length - 1].length - 1] != 1 && a[i][a[a.length - 1].length - 1] == 1) rectangle++;
+        }                                                        // проверка правой нижней ячейки (правая колонка)
         if (a[a[a.length - 1].length - 1][a.length - 1] == 1) rectangle++;
         return rectangle;
     }
