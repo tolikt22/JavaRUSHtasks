@@ -27,9 +27,9 @@ public class Solution {
         for (int i = 0; i < a[a.length - 1].length - 1; i++) {   // поиск по нижнему краю (нижний ряд)
             if (a[a.length - 1][i + 1] != 1 && a[a.length - 1][i] == 1) rectangle++;
         }
-        for (int i = 0; i < a.length - 1; i++) {                 // поиск по правому краю
+        for (int i = 0; i < a.length - 1; i++) {                 // поиск по правому краю (правая колонка)
             if (a[i + 1][a[a.length - 1].length - 1] != 1 && a[i][a[a.length - 1].length - 1] == 1) rectangle++;
-        }                                                        // проверка правой нижней ячейки (правая колонка)
+        }                                                        // проверка правой нижней ячейки
         if (a[a[a.length - 1].length - 1][a.length - 1] == 1) rectangle++;
         return rectangle;
     }
