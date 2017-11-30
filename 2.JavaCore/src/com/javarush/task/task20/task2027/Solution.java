@@ -30,14 +30,15 @@ same - (1, 1) - (4, 1)
         Word oneWord;
         List<Word> wordList = new ArrayList<>();
         for (int i = 0; i < w.length; i++) {
-            String word = w[0];
+            String word = w[i];
             oneWord = findWord(crossword, word);
-            if (!oneWord.equals(null)) wordList.add(oneWord);
+            if (oneWord!=null) wordList.add(oneWord);
         }
         return wordList;
     }
 
     private static Word findWord(int[][] crossword, String w) {
+//        byte[] word = w.getBytes();
         char[] word = w.toCharArray();
         Word oneWord = null;
 
@@ -53,16 +54,16 @@ same - (1, 1) - (4, 1)
     }
 
     private static Word detectDirections(int x, int y, char[] word, int[][] crossword) {
-        StringBuilder wordString = null;
+        StringBuilder wordString = new StringBuilder();
         Word foundWord = null;
         int startX = x, startY = y;
         int endX, endY;
         int count = 0;
         while (x >= 0 && y >= 0 && x < crossword.length && y < crossword[0].length) {
             for (int i = 0; i < word.length; i++) {
-                x++;
                 if (word[i] == crossword[x][y]) {
                     wordString.append(word[i]);
+                    count++;
                 }
                 if (count == word.length) {
                     endX = x;
@@ -72,6 +73,7 @@ same - (1, 1) - (4, 1)
                     foundWord.setEndPoint(endX, endY);
                 }
             }
+            y++;
         }
         return foundWord;
     }
