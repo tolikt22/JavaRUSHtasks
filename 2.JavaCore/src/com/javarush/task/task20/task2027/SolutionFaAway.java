@@ -13,7 +13,6 @@ public class SolutionFaAway {
                 {'m', 'l', 'p', 'r', 'r', 'h'},
                 {'p', 'o', 'e', 'e', 'j', 'j'}
         };
-
                 System.out.println(Arrays.toString(detectAllWords(crossword, "home", "same", "kerpo", "fsgrj", "plgml", "eroo", "hrrp", "e").toArray()));
 
         /*
