@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaRushTasks:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaRushTasks_jar</output-path>
+    <root id="archive" name="JavaRushTasks.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2312/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="3.JavaMultithreading" />
+      <element id="module-output" name="4.JavaCollections" />
+      <element id="module-output" name="1.JavaSyntax" />
+      <element id="module-output" name="5.OnlineInternship" />
+      <element id="module-output" name="JavaRushTasks" />
+      <element id="module-output" name="2.JavaCore" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/junit-4.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/hamcrest-core-1.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
