@@ -6,39 +6,219 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2301/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2301/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2302/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2302/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2303/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2303/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2304/DbMock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2304/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2304/ViewMock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2304/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2305/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2305/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2306/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2306/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2307/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2307/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2308/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2308/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2309/AbstractDbSelectExecutor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2309/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2309/vo/Location.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2309/vo/NamedItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2309/vo/Server.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2309/vo/Subject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2309/vo/Subscription.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2309/vo/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2309/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2310/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2310/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2311/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2311/Условие.jrtc" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2312/META-INF/MANIFEST.MF" afterPath="" />
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="Анонимность иногда так приятна!">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level01/lesson06/task01/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level02/lesson01/task01/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson03/task01/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson03/task02/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson03/task03/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson04/task01/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson04/task02/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson04/task03/Solution$Protos.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson04/task03/Solution$Terran.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson04/task03/Solution$Zerg.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson04/task03/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson04/task04/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson04/task05/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson05/task01/Solution$Student.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson05/task01/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson05/task02/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson05/task03/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson06/task01/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson06/task02/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson06/task03/Solution$Blue.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson06/task03/Solution$Green.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson06/task03/Solution$Indigo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson06/task03/Solution$Orange.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson06/task03/Solution$Red.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson06/task03/Solution$Violet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson06/task03/Solution$Yellow.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson06/task03/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson06/task04/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson06/task05/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson08/task01/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson08/task02/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson08/task03/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson08/task04/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson08/task05/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson12/home01/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson12/home02/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level03/lesson12/home03/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson01/task01/Solution$Person.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson01/task01/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson01/task02/Solution$Apple.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson01/task02/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson02/task01/Cat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson02/task02/Cat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson02/task03/Cat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson02/task04/Cat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson02/task05/Solution$Cat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson02/task05/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson04/task01/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson04/task02/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson04/task03/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson04/task04/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson04/task05/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson04/task06/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson04/task07/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson04/task08/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson04/task09/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson04/task10/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson06/task01/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson06/task02/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson06/task03/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson06/task04/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson06/task05/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson06/task06/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson06/task07/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson06/task08/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson07/task01/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson07/task02/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson07/task03/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson07/task04/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson10/task01/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson10/task02/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson10/task03/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson10/task04/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson10/task05/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson13/task01/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson13/task02/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson13/task03/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson13/task04/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson13/task05/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson16/home01/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson16/home02/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson16/home03/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level04/lesson16/home04/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson05/task01/Cat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson05/task02/Cat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson05/task03/Dog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson05/task04/Solution$Cat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson05/task04/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson05/task05/Solution$Cat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson05/task05/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson07/task01/Friend.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson07/task02/Cat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson07/task03/Dog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson07/task04/Circle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson07/task05/Rectangle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson09/task01/Friend.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson09/task02/Cat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson09/task03/Dog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson09/task04/Circle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson09/task05/Rectangle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson12/bonus01/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson12/bonus02/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson12/bonus03/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson12/home01/Solution$Cat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson12/home01/Solution$Dog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson12/home01/Solution$Duck.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson12/home01/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson12/home02/Solution$Man.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson12/home02/Solution$Woman.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson12/home02/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson12/home03/Solution$Cat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson12/home03/Solution$Dog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson12/home03/Solution$Mouse.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson12/home03/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson12/home04/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level05/lesson12/home05/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level06/lesson05/task01/Cat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level06/lesson05/task02/Cat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level06/lesson05/task02/Dog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level06/lesson05/task03/Cat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level06/lesson05/task03/Dog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level06/lesson05/task03/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level06/lesson05/task04/Cat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level06/lesson08/task01/Cat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level06/lesson08/task02/Cat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level06/lesson08/task03/Util.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level06/lesson08/task04/ConsoleReader.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level06/lesson08/task05/StringHelper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level06/lesson11/bonus01/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level06/lesson11/bonus02/Solution$Cat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level06/lesson11/bonus02/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/test/level06/lesson11/bonus03/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1925/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1927/Solution$TestString.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1927/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2003/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2024/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task21/task2110/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level08/lesson03/task01/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level08/lesson03/task02/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level08/lesson03/task03/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level08/lesson03/task04/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level08/lesson03/task05/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level08/lesson03/task06/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level08/lesson06/task01/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level08/lesson06/task02/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level08/lesson06/task03/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level08/lesson06/task04/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level08/lesson06/task05/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level08/lesson08/task01/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level08/lesson08/task02/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level08/lesson08/task03/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level08/lesson08/task04/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson02/task01/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson02/task02/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson02/task03/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson02/task04/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson02/task05/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson06/task01/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson06/task02/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson06/task03/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson06/task04/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson06/task05/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson08/task01/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson08/task02/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson08/task03/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson08/task04/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson08/task05/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson11/bonus01/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson11/bonus02/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson11/bonus03/SolutionSEX1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson11/home01/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson11/home02/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson11/home03/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson11/home04/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson11/home05/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson11/home06/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson11/home07/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson11/home08/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level09/lesson11/home09/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level12/lesson02/task01/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level12/lesson02/task02/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level12/lesson02/task03/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level12/lesson02/task04/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level12/lesson02/task05/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level12/lesson04/task01/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level12/lesson04/task02/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level12/lesson04/task03/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level12/lesson04/task04/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level12/lesson04/task05/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level12/lesson06/task01/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level12/lesson06/task02/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level12/lesson06/task03/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level12/lesson06/task04/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level12/lesson06/task05/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level12/lesson09/task01/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level12/lesson09/task02/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level12/lesson09/task03/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level12/lesson09/task04/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/level12/lesson09/task05/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Arkanoid.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Ball.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/BaseObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Brick.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Canvas.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Stand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Условие.jrtc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out.log.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task21/task2103/Условие.jrtc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task21/task2104/Условие.jrtc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task21/task2105/Условие.jrtc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" />
     </list>
@@ -75,37 +255,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2311/Solution.java">
+      <file leaf-file-name="Arkanoid.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Arkanoid.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
-              <folding>
-                <element signature="e#443#444#0" expanded="true" />
-                <element signature="e#512#513#0" expanded="true" />
-                <element signature="e#556#557#0" expanded="true" />
-                <element signature="e#646#647#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="56" column="24" lean-forward="false" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Условие.jrtc" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2311/Условие.jrtc">
-          <provider selected="true" editor-type-id="EditorTypeId">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Валидация" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/Валидация">
-          <provider selected="true" editor-type-id="EditorTypeId">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Условие.jrtc" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2309/Условие.jrtc">
+        <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Условие.jrtc">
           <provider selected="true" editor-type-id="EditorTypeId">
             <state />
           </provider>
@@ -179,13 +340,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task21/task2112/Tmp.java" />
-        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task21/task2112/LocalCopy.java" />
-        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task21/task2112/MyObject.java" />
-        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task21/task2113/Условие.jrtc" />
-        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task21/task2113/Horse.java" />
-        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task21/task2113/Hippodrome.java" />
-        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task21/task2112/Snake.java" />
         <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task22/task2202/Solution.java" />
         <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task22/task2203/Условие.jrtc" />
         <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task22/task2203/Solution.java" />
@@ -230,6 +384,13 @@
         <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2309/Solution.java" />
         <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2310/Solution.java" />
         <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2311/Solution.java" />
+        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Arkanoid.java" />
+        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Ball.java" />
+        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Brick.java" />
+        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Stand.java" />
+        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/BaseObject.java" />
+        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Условие.jrtc" />
+        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Canvas.java" />
       </list>
     </option>
   </component>
@@ -247,7 +408,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
-    <option name="y" value="5" />
+    <option name="y" value="-8" />
     <option name="width" value="1554" />
     <option name="height" value="905" />
   </component>
@@ -330,7 +491,7 @@
               <item name="javarush" type="462c0819:PsiDirectoryNode" />
               <item name="task" type="462c0819:PsiDirectoryNode" />
               <item name="task23" type="462c0819:PsiDirectoryNode" />
-              <item name="task2309" type="462c0819:PsiDirectoryNode" />
+              <item name="task2311" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
@@ -340,18 +501,27 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="javarush" type="462c0819:PsiDirectoryNode" />
               <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task23" type="462c0819:PsiDirectoryNode" />
-              <item name="task2309" type="462c0819:PsiDirectoryNode" />
-              <item name="vo" type="462c0819:PsiDirectoryNode" />
+              <item name="task24" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="3.JavaMultithreading" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="javarush" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+              <item name="task24" type="462c0819:PsiDirectoryNode" />
+              <item name="task2413" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1137,7 +1307,15 @@
       <workItem from="1518727806349" duration="6775000" />
       <workItem from="1518735294787" duration="537000" />
       <workItem from="1518908464187" duration="4331000" />
-      <workItem from="1518953600606" duration="8522000" />
+      <workItem from="1518953600606" duration="8791000" />
+      <workItem from="1518988840835" duration="65000" />
+      <workItem from="1518988928610" duration="9000" />
+      <workItem from="1518989230251" duration="228000" />
+      <workItem from="1519327934733" duration="614000" />
+      <workItem from="1519334223218" duration="530000" />
+      <workItem from="1519420125668" duration="168000" />
+      <workItem from="1519681048710" duration="2488000" />
+      <workItem from="1519759018597" duration="3048000" />
     </task>
     <task id="LOCAL-00001" summary="RegEx Пунктуация">
       <created>1507758289965</created>
@@ -1391,7 +1569,14 @@
       <option name="project" value="LOCAL" />
       <updated>1518731839704</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Анонимность иногда так приятна!">
+      <created>1518986731728</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1518986731728</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1400,39 +1585,48 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="430933000" />
+    <option name="totallyTimeSpent" value="438352000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1554" height="916" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12285337" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22192867" sideWeight="0.5107095" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299866" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15323646" sideWeight="0.4892905" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2931727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32597056" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299866" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24966533" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24966533" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25231177" sideWeight="0.49732262" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24966533" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25231177" sideWeight="0.49732262" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12285337" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15323646" sideWeight="0.4892905" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1451,7 +1645,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Хуан Хуанович" />
     <MESSAGE value="Перевертыши" />
     <MESSAGE value="Контекстная реклама" />
     <MESSAGE value="Читаем и пишем в файл: JavaRush" />
@@ -1476,7 +1669,8 @@
     <MESSAGE value="Составить цепочку слов" />
     <MESSAGE value="Смена кодировки" />
     <MESSAGE value="Snake" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snake" />
+    <MESSAGE value="Анонимность иногда так приятна!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Анонимность иногда так приятна!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1530,50 +1724,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task22/task2212/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/Quest.info">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Компиляция" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="237" column="11" lean-forward="true" selection-start-line="237" selection-start-column="11" selection-end-line="237" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/awt/Frame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="956" column="16" lean-forward="false" selection-start-line="956" selection-start-column="16" selection-end-line="956" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/javax/swing/JFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="122" column="13" lean-forward="false" selection-start-line="122" selection-start-column="13" selection-end-line="122" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2312/Tmp.java" />
-    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2027/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2312/KeyboardObserver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
@@ -1711,7 +1861,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1724,7 +1873,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="387">
           <caret line="34" column="58" lean-forward="false" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="58" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1737,7 +1885,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1750,7 +1897,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="50" column="21" lean-forward="false" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1758,7 +1904,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="38" lean-forward="false" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1766,7 +1911,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="43" lean-forward="false" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1774,7 +1918,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1782,7 +1925,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1790,7 +1932,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1798,7 +1939,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="39" lean-forward="false" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1806,7 +1946,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1814,18 +1953,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-          <folding>
-            <element signature="e#708#876#0" expanded="true" />
-            <element signature="e#875#876#0" expanded="true" />
-            <element signature="e#953#1129#0" expanded="true" />
-            <element signature="e#1128#1129#0" expanded="true" />
-            <element signature="e#1202#1374#0" expanded="true" />
-            <element signature="e#1373#1374#0" expanded="true" />
-            <element signature="e#1449#1623#0" expanded="true" />
-            <element signature="e#1622#1623#0" expanded="true" />
-            <element signature="e#1708#1892#0" expanded="true" />
-            <element signature="e#1891#1892#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1838,8 +1965,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-          <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="300" column="30" lean-forward="false" selection-start-line="300" selection-start-column="30" selection-end-line="300" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2309/Условие.jrtc">
+      <provider selected="true" editor-type-id="EditorTypeId">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2311/Условие.jrtc">
@@ -1847,24 +1985,57 @@
         <state />
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Thread.java">
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2311/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="300" column="30" lean-forward="false" selection-start-line="300" selection-start-column="30" selection-end-line="300" selection-end-column="30" />
+        <state relative-caret-position="166">
+          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2311/Solution.java">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Компиляция">
+      <provider selected="true" editor-type-id="EditorTypeId">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Ball.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
-            <element signature="e#443#444#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#556#557#0" expanded="true" />
-            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="false" />
+            <element signature="e#169#170#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Brick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#136#137#0" expanded="false" />
+            <element signature="e#171#172#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Stand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#136#137#0" expanded="false" />
+            <element signature="e#171#172#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/BaseObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1873,7 +2044,26 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task23/task2309/Условие.jrtc">
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Canvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="32" column="31" lean-forward="false" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+          <folding>
+            <element signature="e#690#691#0" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Arkanoid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="56" column="24" lean-forward="false" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2413/Условие.jrtc">
       <provider selected="true" editor-type-id="EditorTypeId">
         <state />
       </provider>
