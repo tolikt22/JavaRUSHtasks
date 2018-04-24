@@ -47,9 +47,8 @@ public class Dog implements Pet {
     public Sayable toSayable(final int i) {
         class DogPet extends SuperDog implements Sayable {
             private String getName() {
-                String quotes = new DogPet().getSuperQuotes();
-
-                String nameString = quotes + Dog.this.name + quotes;
+                String quotes = getSuperQuotes();
+                String nameString = quotes + name + quotes;
                 return nameString;
             }
 
